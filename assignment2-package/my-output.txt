@@ -1,0 +1,4 @@
+==========================Stage 1==========================
+Word 0: allocate
+POS: vt
+Form: 0allocated1allocated2allocating
