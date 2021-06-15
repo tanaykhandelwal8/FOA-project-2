@@ -1,37 +1,39 @@
 # FOA-project-2
 Foundations of Algorithms, Project 2
 
-COMP10002 Assignment 2 Feedback: khandelwalt
+## COMP10002 Assignment 2 Feedback: khandelwalt
 
-Program Presentation Including: layout and style, readability, adherence to coding expectations, general care and appearance.
-One of the following lines will be retained by the marker.
-•	Up to Stage 1 initial allocation, +1.
-•	Up to Stage 2 initial allocation, +2.
-•	Up to Stage 3 initial allocation, +3.
+### Program Presentation Including: layout and style, readability, adherence to coding expectations, general care and appearance.
+One of the following lines will be retained by the marker.  
+•	Up to Stage 1 initial allocation, +1.  
+•	Up to Stage 2 initial allocation, +2.  
+•	Up to Stage 3 initial allocation, +3.  
 
-Deductions
-Some subset of the following lines will be retained by the marker. Marks in each section won&apos;t go below zero.
-•	absence of function prototypes, -0.5; // function prototypes should be placed above the main function and function definitions after the main
+Deductions.  
+Some subset of the following lines will be retained by the marker. Marks in each section won&apos;t go below zero.  
+•	absence of function prototypes, -0.5; // function prototypes should be placed above the main function and function definitions after the main. 
 
-Additions (included in total mark only if marks lost within this first section)
-•	comment that says "algorithms are awesome", +0.5;
+Additions (included in total mark only if marks lost within this first section)  
+•	comment that says "algorithms are awesome", +0.5;  
 
-Other Comments from Marker
+Other Comments from Marker  
 
-Structure and Approach Including: decomposition in to functions, development of data structures and declaration of them at the appropriate locations, choice of parameters to functions, use of appropriate struct and typedef declarations, choice of algorithms or methods.
+### Structure and Approach  
+Including: decomposition in to functions, development of data structures and declaration of them at the appropriate locations, choice of parameters to functions, use of appropriate struct and typedef declarations, choice of algorithms or methods.  
 
-One of the following lines will be retained by the marker.
-•	Up to Stage 1 initial allocation, +1.
-•	Up to Stage 2 initial allocation, +2.
-•	Up to Stage 3 initial allocation, +5.
+One of the following lines will be retained by the marker.  
+•	Up to Stage 1 initial allocation, +1.  
+•	Up to Stage 2 initial allocation, +2.  
+•	Up to Stage 3 initial allocation, +5.  
 
-Deductions
-Some subset of the following lines will be retained by the marker. Marks in each section won&apos;t go below zero.
-•	other structural issue (minor), -0.5; // not freeing the memory allocated to linked list
+Deductions  
+Some subset of the following lines will be retained by the marker. Marks in each section won&apos;t go below zero.  
+•	other structural issue (minor), -0.5; // not freeing the memory allocated to linked list. 
 
-Other comments from marker:
+Other comments from marker:  
 
-Program Execution Including: compilation, execution on test data, output presentation and readability.
+### Program Execution  
+Including: compilation, execution on test data, output presentation and readability.
 Programs that do not compile in the test environment will lose all marks in this section. Be sure to verify your submission and check the output before you say "finished" to yourself.
 
 One of the following lines will be retained by the marker.
